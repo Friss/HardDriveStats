@@ -1,0 +1,402 @@
+25
+Stat: smart_1_normalized
+Max Value: 120.0
+Min Value: 66.0
+Range: 54.0
+
+Stat: smart_1_raw
+Max Value: 244050640.0
+Min Value: 0.0
+Range: 244050640.0
+
+Stat: smart_2_normalized
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_2_raw
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_3_normalized
+Max Value: 94.0
+Min Value: 90.0
+Range: 4.0
+
+Stat: smart_3_raw
+Max Value: 0.0
+Min Value: 0.0
+Range: 0.0
+
+Stat: smart_4_normalized
+Max Value: 100.0
+Min Value: 100.0
+Range: 0.0
+
+Stat: smart_4_raw
+Max Value: 189.0
+Min Value: 7.0
+Range: 182.0
+
+Stat: smart_5_normalized
+Max Value: 100.0
+Min Value: 51.0
+Range: 49.0
+
+Stat: smart_5_raw
+Max Value: 65224.0
+Min Value: 0.0
+Range: 65224.0
+
+Stat: smart_7_normalized
+Max Value: 90.0
+Min Value: 43.0
+Range: 47.0
+
+Stat: smart_7_raw
+Max Value: 84465346434762.0
+Min Value: 40376.0
+Range: 84465346394386.0
+
+Stat: smart_8_normalized
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_8_raw
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_9_normalized
+Max Value: 98.0
+Min Value: 69.0
+Range: 29.0
+
+Stat: smart_9_raw
+Max Value: 27331.0
+Min Value: 9.0
+Range: 27322.0
+
+Stat: smart_10_normalized
+Max Value: 100.0
+Min Value: 100.0
+Range: 0.0
+
+Stat: smart_10_raw
+Max Value: 0.0
+Min Value: 0.0
+Range: 0.0
+
+Stat: smart_11_normalized
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_11_raw
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_12_normalized
+Max Value: 100.0
+Min Value: 100.0
+Range: 0.0
+
+Stat: smart_12_raw
+Max Value: 133.0
+Min Value: 7.0
+Range: 126.0
+
+Stat: smart_13_normalized
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_13_raw
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_15_normalized
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_15_raw
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_183_normalized
+Max Value: 100.0
+Min Value: 1.0
+Range: 99.0
+
+Stat: smart_183_raw
+Max Value: 29879.0
+Min Value: 0.0
+Range: 29879.0
+
+Stat: smart_184_normalized
+Max Value: 100.0
+Min Value: 52.0
+Range: 48.0
+
+Stat: smart_184_raw
+Max Value: 48.0
+Min Value: 0.0
+Range: 48.0
+
+Stat: smart_187_normalized
+Max Value: 100.0
+Min Value: 1.0
+Range: 99.0
+
+Stat: smart_187_raw
+Max Value: 3966.0
+Min Value: 0.0
+Range: 3966.0
+
+Stat: smart_188_normalized
+Max Value: 100.0
+Min Value: 98.0
+Range: 2.0
+
+Stat: smart_188_raw
+Max Value: 781695975613.0
+Min Value: 0.0
+Range: 781695975613.0
+
+Stat: smart_189_normalized
+Max Value: 100.0
+Min Value: 1.0
+Range: 99.0
+
+Stat: smart_189_raw
+Max Value: 65535.0
+Min Value: 0.0
+Range: 65535.0
+
+Stat: smart_190_normalized
+Max Value: 84.0
+Min Value: 63.0
+Range: 21.0
+
+Stat: smart_190_raw
+Max Value: 37.0
+Min Value: 16.0
+Range: 21.0
+
+Stat: smart_191_normalized
+Max Value: 100.0
+Min Value: 100.0
+Range: 0.0
+
+Stat: smart_191_raw
+Max Value: 0.0
+Min Value: 0.0
+Range: 0.0
+
+Stat: smart_192_normalized
+Max Value: 100.0
+Min Value: 100.0
+Range: 0.0
+
+Stat: smart_192_raw
+Max Value: 98.0
+Min Value: 1.0
+Range: 97.0
+
+Stat: smart_193_normalized
+Max Value: 100.0
+Min Value: 1.0
+Range: 99.0
+
+Stat: smart_193_raw
+Max Value: 664245.0
+Min Value: 8.0
+Range: 664237.0
+
+Stat: smart_194_normalized
+Max Value: 37.0
+Min Value: 16.0
+Range: 21.0
+
+Stat: smart_194_raw
+Max Value: 37.0
+Min Value: 16.0
+Range: 21.0
+
+Stat: smart_195_normalized
+Max Value: 39.0
+Min Value: 24.0
+Range: 15.0
+
+Stat: smart_195_raw
+Max Value: 237828784.0
+Min Value: 382208.0
+Range: 237446576.0
+
+Stat: smart_196_normalized
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_196_raw
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_197_normalized
+Max Value: 100.0
+Min Value: 1.0
+Range: 99.0
+
+Stat: smart_197_raw
+Max Value: 65534.0
+Min Value: 0.0
+Range: 65534.0
+
+Stat: smart_198_normalized
+Max Value: 100.0
+Min Value: 1.0
+Range: 99.0
+
+Stat: smart_198_raw
+Max Value: 65534.0
+Min Value: 0.0
+Range: 65534.0
+
+Stat: smart_199_normalized
+Max Value: 200.0
+Min Value: 200.0
+Range: 0.0
+
+Stat: smart_199_raw
+Max Value: 18701.0
+Min Value: 0.0
+Range: 18701.0
+
+Stat: smart_200_normalized
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_200_raw
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_201_normalized
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_201_raw
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_223_normalized
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_223_raw
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_225_normalized
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_225_raw
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_240_normalized
+Max Value: 100.0
+Min Value: 100.0
+Range: 0.0
+
+Stat: smart_240_raw
+Max Value: 281449206923735.0
+Min Value: 150323874932.0
+Range: 281298883048803.0
+
+Stat: smart_241_normalized
+Max Value: 100.0
+Min Value: 100.0
+Range: 0.0
+
+Stat: smart_241_raw
+Max Value: 195988661731713.0
+Min Value: 119468531.0
+Range: 195988542263182.0
+
+Stat: smart_242_normalized
+Max Value: 100.0
+Min Value: 100.0
+Range: 0.0
+
+Stat: smart_242_raw
+Max Value: 281207027919707.0
+Min Value: 220990777.0
+Range: 281206806928930.0
+
+Stat: smart_250_normalized
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_250_raw
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_251_normalized
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_251_raw
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_252_normalized
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_252_raw
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_254_normalized
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_254_raw
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_255_normalized
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+Stat: smart_255_raw
+Max Value: -inf
+Min Value: inf
+Range: -inf
+
+[Finished in 0.6s]
